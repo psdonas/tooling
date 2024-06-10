@@ -1,0 +1,32 @@
+﻿name,ring,quadrant,isNew,description
+Bitnami Sealed Secrets,Adopt,Tools,FALSE,"<p>Encrypt your Secret into a SealedSecret, which is safe to store - even inside a public repository. The SealedSecret can be decrypted only by the controller running in the target cluster and nobody else (not even the original author) is able to obtain the original Secret from the SealedSecret..</p>"
+Cert-Manager,Adopt,Tools,FALSE,<p>Cloud native X.509 certificate management for Kubernetes and OpenShift..</p>
+Elasticsearch,Adopt,Tools,FALSE,<p>.</p>
+Fluent Bit,Adopt,Tools,FALSE,<p>.</p>
+Flux v2,Adopt,Tools,FALSE,<p>.</p>
+Grafana,Adopt,Tools,FALSE,<p>.</p>
+Helm,Adopt,Tools,FALSE,<p>.</p>
+GKE,Adopt,Tools,FALSE,<p>.</p>
+Kibana,Adopt,Tools,FALSE,<p>.</p>
+Kyverno,Adopt,Tools,FALSE,<p>.</p>
+Kyverno Policies,Adopt,Tools,FALSE,<p>.</p>
+Kyverno Policy Reporter,Adopt,Tools,FALSE,<p>.</p>
+Nginx Ingress Controller,Adopt,Tools,FALSE,<p>.</p>
+Azure DevOps,Adopt,Tools,FALSE,<p>.</p>
+Prometheus Adapter,Adopt,Tools,FALSE,<p>.</p>
+Prometheus Elasticsearch Exporter,Adopt,Tools,FALSE,<p>.</p>
+Prometheus Stack,Adopt,Tools,FALSE,<p>.</p>
+SonarQube,Adopt,Tools,FALSE,<p>.</p>
+Terraform,Adopt,Tools,FALSE,<p>.</p>
+Terraform Provider: Google,Adopt,Tools,FALSE,<p>.</p>
+Terraform Provider: Google-Beta,Adopt,Tools,FALSE,<p>.</p>
+Terraform Provider: Acme,Adopt,Tools,FALSE,<p>.</p>
+Terraform Provider: TLS,Adopt,Tools,FALSE,<p>.</p>
+Terraform Module: Project Factory,Adopt,Tools,FALSE,<p>.</p>
+Thanos,Adopt,Tools,FALSE,<p>.</p>
+Google Kubernetes Engine,Adopt,Platforms,FALSE,<p>.</p>
+Google Cloud Composer,Adopt,Platforms,FALSE,<p>A fully managed workflow orchestration service built on Apache Airflow.</p>
+Google Cloud SQL,Adopt,Platforms,FALSE,"<p>Cloud SQL is a service that delivers fully managed relational databases in the cloud. It offers MySQL, PostgreSQL, and SQL Server database engines.</p>"
+Google BigQuery,Adopt,Platforms,FALSE,"<p>BigQuery is a serverless, cost-effective, and multicloud data warehouse designed to help you turn big data into valuable business insights.</p>"
+Google Cloud Storage,Adopt,Platforms,FALSE,<p>Cloud Storage is a service for storing objects in Google Cloud. An object is an immutable piece of data consisting of a file of any format.</p>
+Google Kubernetes Engine Enterprise,Trial,Platforms,TRUE,"<p>Google Kubernetes Engine (GKE) is Google's managed Kubernetes service that you can use to deploy and operate containerized applications using Google's infrastructure. It provides the operational power of Kubernetes while managing many of the underlying components, such as the control plane and nodes, for you. GKE features are available in two tiers, or editions: a standard tier of core functionality available to all GKE users, and an enterprise tier with powerful features for governing, managing, and operating containerized workloads at enterprise scale.</p>"
