@@ -19,7 +19,7 @@ Terraform,Adopt,Tools,FALSE,<p>Terraform is an infrastructure as code tool that 
 Terraform Provider: Google,Adopt,Tools,FALSE,<p></p>
 Terraform Provider: Google-Beta,Adopt,Tools,FALSE,<p></p>
 Terraform Provider: Acme,Adopt,Tools,FALSE,<p></p>
-Terraform Provider: TLS,Adopt,Tools,FALSE,<p>The TLS provider provides utilities for working with Transport Layer Security keys and certificates. It provides resources that allow private keys, certificates and certificate requests to be created as part of a Terraform deployment.</p>
+Terraform Provider: TLS,Adopt,Tools,FALSE,"<p>The TLS provider provides utilities for working with Transport Layer Security keys and certificates. It provides resources that allow private keys, certificates and certificate requests to be created as part of a Terraform deployment.</p>"
 Terraform Module: Project Factory,Adopt,Tools,FALSE,<p>This module allows you to create opinionated Google Cloud Platform projects. It creates projects and configures aspects like Shared VPC connectivity, IAM access, Service Accounts, and API enablement to follow best practices.</p>
 Thanos,Adopt,Tools,FALSE,<p>Thanos provides a global query view, high availability, data backup with historical, cheap data access as its core features in a single binary. Those features can be deployed independently of each other. This allows you to have a subset of Thanos features ready for immediate benefit or testing, while also making it flexible for gradual roll outs in more complex environments.</p>
 Elastic Cloud on Kubernetes,Adopt,Platforms,FALSE,"<p>With Elastic Cloud on Kubernetes (ECK) you can extend the basic Kubernetes orchestration capabilities to easily deploy, secure, upgrade your Elasticsearch cluster, and much more.</p>"
